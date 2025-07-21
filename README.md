@@ -35,7 +35,6 @@ Welcome to **KTiR SMANTIG**, an official website dedicated to showcasing **Youth
 ## 📁 Project Structure
 
 ```
-
 .
 ├── index.html
 ├── style.css
