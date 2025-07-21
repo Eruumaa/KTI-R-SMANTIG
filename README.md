@@ -92,6 +92,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 For feedback or collaboration, reach out via:
 
 * 📧 Email: \[[maqilmb30@gmail.com](mailto:maqilmb30@gmail.com)]
-* 💼 LinkedIn: \[[your-linkedin-profile](https://www.linkedin.com/in/aqil-mubarak-7ab4a2320/)]
+* 💼 LinkedIn: \[[Aqil Mubarak](https://www.linkedin.com/in/aqil-mubarak-7ab4a2320/)]
 
 ---
