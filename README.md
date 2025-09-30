@@ -1,6 +1,6 @@
-# ✨ KTiR SMANTIG — Youth Scientific Writing Website
+# ✨ KTIR SMANTIG — Youth Scientific Writing Website
 
-Welcome to **KTiR SMANTIG**, an official website dedicated to showcasing **Youth Scientific Papers (Karya Tulis Ilmiah Remaja)** created by students of **SMAN 3 Banda Aceh**. This platform allows students to **publish**, **browse**, and **celebrate** their research and innovative ideas.
+Welcome to **KTIR SMANTIG**, an official website dedicated to showcasing **Youth Scientific Papers (Karya Tulis Ilmiah Remaja)** created by students of **SMAN 3 Banda Aceh**. This platform allows students to **publish**, **browse**, and **celebrate** their research and innovative ideas.
 
 🌐 Website: [ktir-smantig.netlify.app](https://ktir-smantig.netlify.app/)
 
@@ -53,8 +53,8 @@ Welcome to **KTiR SMANTIG**, an official website dedicated to showcasing **Youth
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/KTiR-SMANTIG.git
-cd KTiR-SMANTIG
+git clone https://github.com/your-username/KTIR-SMANTIG.git
+cd KTIR-SMANTIG
 ````
 
 2. Open `index.html` in your preferred browser:
